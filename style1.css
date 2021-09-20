@@ -1,0 +1,11 @@
+body{
+    background-color:#345B63;
+}
+
+tr{
+    color: black;
+    font-weight: bolder;
+    font-style: initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
